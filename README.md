@@ -1,3 +1,5 @@
+![QTS_L_2_W](https://github.com/user-attachments/assets/d6757c95-a4de-41de-aa5a-86c5e816324d)
+
 # Quartzion Technology Solutions Corp. SDLC
 
 ## Description
