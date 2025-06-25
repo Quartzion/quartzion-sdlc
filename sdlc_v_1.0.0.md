@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="assets/css/style.css">
+<img src="assets/images/QTS_L2.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
+
+
 # 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC)
 
 ---
@@ -39,6 +43,8 @@ This lifecycle ensures delivery of **high-quality**, **ethical**, and **communit
 ---
 
 ## ✅ Visual SDLC Flow
+
+```mermaid
 graph TD
     A[Requirements Gathering] --> B[Planning]
     B --> C[Design]
@@ -48,4 +54,5 @@ graph TD
     F --> G[Maintenance & Support]
     G --> H[Retrospective & Lessons Learned]
     H --> A
-
+```
+<img src="assets/images/QTS_L1.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
