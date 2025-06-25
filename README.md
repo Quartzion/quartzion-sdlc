@@ -11,6 +11,7 @@ This is the SDLC Version 1.0.0 for Quartzion Technology Solutions Corp.
 - [How to Update and Version](#How-to-Update-and-version)
 - [Making Changes to the GitHub hosted Page](#Making-Changes-To-The-GitHub-hosted-Page)
 - [Markdown to html conversion tool](#Markdown-to-html-conversion-tool)
+- [Example Header for index.html](#Example-Header-for-index.html)
 - [License](#License)
 - [Contributions](#Contributions)
 - [Additional Questions](#additional-questions-send-an-email-or-follow-the-link-to-my-github-profile)
@@ -29,6 +30,24 @@ First ensure that you have prepared the sdlc version .md file. After the file is
 
 ## Markdown to html conversion tool
 [markdowntohtml.com](https://markdowntohtml.com/)
+
+## Example Header for index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QTS SDLC V 1.#.#</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+</head>
+<body>
+  ALL OTHER HTML CHANGES HERE - Step 1. Create sdlc_v_#.#.#.md file > Step 2. Convert markdown to HTML with Markdown to html tool > Step 3. paste converted html into THIS SECTION. 
+</body>
+</html>
 
 ## License
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
