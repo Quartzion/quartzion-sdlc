@@ -28,6 +28,7 @@ Peter Smith of Quartzion Technology Solutions Corp.
 Email - peter.appliedanalyticalsciences@gmail.com 
 Github profile link - https://github.com/peteCodes4u
 
-![QTS_Logo_2](https://github.com/user-attachments/assets/1e5945a5-6942-4754-819a-1e558bb70eff)
+![QuartzionTechnologySolutions_Logo](https://github.com/user-attachments/assets/408f7f72-4b18-4358-937c-4b08800ed3dd)
+
 
 
