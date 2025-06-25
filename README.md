@@ -32,7 +32,7 @@ First ensure that you have prepared the sdlc version .md file. After the file is
 [markdowntohtml.com](https://markdowntohtml.com/)
 
 ## Example Header for index.html
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -44,7 +44,7 @@ First ensure that you have prepared the sdlc version .md file. After the file is
     mermaid.initialize({ startOnLoad: true });
   </script>
 </head>
-<body>
+<body>`
   ALL OTHER HTML CHANGES HERE - Step 1. Create sdlc_v_#.#.#.md file > Step 2. Convert markdown to HTML with Markdown to html tool > Step 3. paste converted html into THIS SECTION. 
 </body>
 </html>
