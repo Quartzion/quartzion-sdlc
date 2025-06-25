@@ -54,6 +54,6 @@ graph TD
     F --> G[Maintenance & Support]
     G --> H[Retrospective & Lessons Learned]
     H --> A
-
+```
 <img src="assets/images/QTS_L1.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
 
