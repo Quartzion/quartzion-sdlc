@@ -43,6 +43,8 @@ This lifecycle ensures delivery of **high-quality**, **ethical**, and **communit
 ---
 
 ## ✅ Visual SDLC Flow
+
+```mermaid
 graph TD
     A[Requirements Gathering] --> B[Planning]
     B --> C[Design]
