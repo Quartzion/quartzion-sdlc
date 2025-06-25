@@ -55,6 +55,3 @@ graph TD
     H --> A
 ```
 <img src="assets/images/QTS_L1.png" alt="Quartzion Logo" style="width:400px; height:auto;" /> 
-<!-- MermaidJS client-side rendering for GitHub Pages --> 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js">
-</script> <script> mermaid.initialize({ startOnLoad: true }); </script>
