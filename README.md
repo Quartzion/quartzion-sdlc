@@ -8,6 +8,7 @@ This is the SDLC Version 1.0.0 for Quartzion Technology Solutions Corp.
 ## Table of Contents
 - [Link to SDLC Page](#Link-to-SDLC)
 - [Usage Information](#Usage-Information)
+- [How to Update and Version](#How-to-Update-and-version)
 - [License](#License)
 - [Contributions](#Contributions)
 - [Additional Questions](#additional-questions-send-an-email-or-follow-the-link-to-my-github-profile)
@@ -17,6 +18,9 @@ This is the SDLC Version 1.0.0 for Quartzion Technology Solutions Corp.
 
 ## Usage Information
 the intended usage of this is to review the software delivery and life cycle for QTS develoment and deployment. This is intended for QTS internal use, however it is publicly available for full transparency.
+
+## How to Update and Version
+The SDLC content is rendered via the index.md file. The update process for the SDLC requires consultation and approval by the Engineering and Technology committee of Quartzion Technology Solutions Corp. Any approved changes will be made to the .md file titled 'sdlc_v_#.#.#' corresponding to the major version, added feature, and patch. A major version change would constitute as a re-write, addition or elimination of an established rule, practice or established guideline. An added specification to an existing rule, practice or guideline would constitute as an added feature. A minor update to an existing rule for verbiage or higher/lower specificity constitutes as a patch. After determining the version number a new .md file will be added with the title 'sdlc_v_#.#.#'. The previous versions will be present until archival is agreed by the Engineering and Technology committee. After the file is generated a new branch is to be made named 'sdlc_v_#.#.#' and the changes within the new sdlc version will replace the contents of the index.md file so that the GitHub page will update with the changes. After the changes are in the appropriately titled branch a pull request to merge to the master branch can be made. After review and approval the changes will be merged by leadership for publication and distribution.
 
 ## License
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
