@@ -2,7 +2,7 @@
 <img src="assets/images/QTS_L2.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
 
 
-# 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC)
+# 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC) Version 1.0.0
 
 ---
 
