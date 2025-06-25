@@ -3,3 +3,18 @@ body {
     color: white;
     font-family: Arial, sans-serif;
 }
+
+table, th, td {
+  color: white;
+  border: 1px solid white;
+  border-collapse: collapse;
+  padding: 8px;
+}
+
+table {
+  background-color: #999;
+}
+
+table tr:nth-child(even) {
+  background-color: #555;
+}
