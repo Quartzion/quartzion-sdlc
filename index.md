@@ -1,3 +1,5 @@
+<img src="QTS_L2_SM.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
+
 # 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC)
 
 ---
@@ -49,3 +51,4 @@ graph TD
     G --> H[Retrospective & Lessons Learned]
     H --> A
 
+<img src="QTS_L1_SM.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
