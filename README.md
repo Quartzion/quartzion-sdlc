@@ -32,7 +32,8 @@ First ensure that you have prepared the sdlc version .md file. After the file is
 [markdowntohtml.com](https://markdowntohtml.com/)
 
 ## Example Header for index.html
-`<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -48,7 +49,7 @@ First ensure that you have prepared the sdlc version .md file. After the file is
   ALL OTHER HTML CHANGES HERE - Step 1. Create sdlc_v_#.#.#.md file > Step 2. Convert markdown to HTML with Markdown to html tool > Step 3. paste converted html into THIS SECTION. 
 </body>
 </html>
-
+```
 ## License
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
