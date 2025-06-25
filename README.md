@@ -46,7 +46,10 @@ First ensure that you have prepared the sdlc version .md file. After the file is
   </script>
 </head>
 <body>`
-  ALL OTHER HTML CHANGES HERE - Step 1. Create sdlc_v_#.#.#.md file > Step 2. Convert markdown to HTML with Markdown to html tool > Step 3. paste converted html into THIS SECTION. 
+  ALL OTHER HTML CHANGES HERE -
+  Step 1. Create sdlc_v_#.#.#.md file
+  Step 2. Convert markdown to HTML with Markdown to html tool
+  Step 3. paste converted html into THIS SECTION. 
 </body>
 </html>
 ```
