@@ -39,4 +39,13 @@ This lifecycle ensures delivery of **high-quality**, **ethical**, and **communit
 ---
 
 ## ✅ Visual SDLC Flow
+graph TD
+    A[Requirements Gathering] --> B[Planning]
+    B --> C[Design]
+    C --> D[Development]
+    D --> E[Testing]
+    E --> F[Deployment]
+    F --> G[Maintenance & Support]
+    G --> H[Retrospective & Lessons Learned]
+    H --> A
 
