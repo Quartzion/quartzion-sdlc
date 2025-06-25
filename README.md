@@ -8,7 +8,7 @@ This is the SDLC Version 1.0.0 for Quartzion Technology Solutions Corp.
 ## Table of Contents
 - [Link to SDLC Page](#Link-to-SDLC)
 - [Usage Information](#Usage-Information)
-- [How to Update and Version](#Update-and-Versioning)
+- [How to Update and Version](#How-to-Update-and-version)
 - [License](#License)
 - [Contributions](#Contributions)
 - [Additional Questions](#additional-questions-send-an-email-or-follow-the-link-to-my-github-profile)
