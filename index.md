@@ -51,4 +51,4 @@ graph TD
     G --> H[Retrospective & Lessons Learned]
     H --> A
 
-<img src="assets/images/QTS_L1_SM.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/23d2ff89-b154-400d-8f1d-ee44fa2768f5" alt="Quartzion Logo" style="width:400px; height:auto;" />
