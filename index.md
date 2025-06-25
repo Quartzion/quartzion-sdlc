@@ -1,4 +1,4 @@
-<img src="[https://github.com/user-attachments/assets/ed4c1b25-1804-4601-8e5a-e6e5f7507c0a" alt="Quartzion Logo" style="width:400px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/ed4c1b25-1804-4601-8e5a-e6e5f7507c0a" alt="Quartzion Logo" style="width:400px; height:auto;" />
 
 # 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC)
 
@@ -51,4 +51,4 @@ graph TD
     G --> H[Retrospective & Lessons Learned]
     H --> A
 
-<img src="assets/images/QTS_L1_SM.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/23d2ff89-b154-400d-8f1d-ee44fa2768f5" alt="Quartzion Logo" style="width:400px; height:auto;" />
