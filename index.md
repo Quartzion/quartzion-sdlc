@@ -1,4 +1,4 @@
-<img src="[https://github.com/user-attachments/assets/ed4c1b25-1804-4601-8e5a-e6e5f7507c0a" alt="Quartzion Logo" style="width:400px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/ed4c1b25-1804-4601-8e5a-e6e5f7507c0a" alt="Quartzion Logo" style="width:400px; height:auto;" />
 
 # 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC)
 
