@@ -4,13 +4,13 @@
 This is the SDLC Version 1.0.0 for Quartzion Technology Solutions Corp.
 
 ## Table of Contents
-- [Link to SDLC page](#Link to SDLC)
+- [Link to SDLC Page](#Link-to-SDLC)
 - [Usage Information](#Usage-Information)
 - [License](#License)
 - [Contributions](#Contributions)
 - [Additional Questions](#additional-questions-send-an-email-or-follow-the-link-to-my-github-profile)
 
-## Link to SDLC
+## Link to SDLC Page
 [SDLC](https://quartzion.github.io/quartzion-sdlc/)
 
 ## Usage Information
