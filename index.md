@@ -1,10 +1,5 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <img src="assets/images/QTS_L2.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-<script>
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
 
 # 📍 Quartzion Technology Solutions Corp - Software Development Life Cycle (SDLC) Version 1.0.0
 
@@ -59,5 +54,8 @@ graph TD
     G --> H[Retrospective & Lessons Learned]
     H --> A
 ```
-<img src="assets/images/QTS_L1.png" alt="Quartzion Logo" style="width:400px; height:auto;" />
+<img src="assets/images/QTS_L1.png" alt="Quartzion Logo" style="width:400px; height:auto;" /> 
+<!-- MermaidJS client-side rendering for GitHub Pages --> 
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js">
+</script> <script> mermaid.initialize({ startOnLoad: true }); </script>
 
